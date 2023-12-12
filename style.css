@@ -1,0 +1,102 @@
+body{
+    background-color: #fbfbfd;
+    margin: auto auto;  
+}
+
+.logo{
+    display: block;
+    text-align: center;    
+}
+
+/*.container1{
+    display: block;
+    text-align: center;
+    width: 90%;
+    
+   
+}*/
+
+.searches{
+    margin: 0 auto;
+}
+
+.search p{
+    margin-bottom: 5px;
+    line-height: 20px;
+    font-size: 22px;
+}
+
+.search{
+    display: block;
+    margin: auto;
+    background-color: rgb(237, 237, 237);
+    text-align: center;
+    width: 90%;
+    height: 85px;
+}
+
+input{
+    display: block;
+    margin: auto;
+    width: 380px;
+    height: 21px;   
+}
+
+.searches-btn{
+    cursor: pointer;
+    height: 30px;
+    font-size: 16px;
+    margin: 1px;
+}
+
+.lucky-btn{
+    cursor: pointer;
+    height: 30px;
+    font-size: 16px;
+    margin: 1px;
+}
+
+.container2{
+    display:flex;
+    margin: auto;
+    width: 90%;
+    text-align:center;
+    
+      
+}
+
+.box1{
+    display: inline-block;
+    width: 37% ;      
+    background-color:rgb(126, 229, 218);
+    line-height: 3px;   
+    padding: 15px;
+}
+
+.box1 a{
+    line-height: 15px; 
+}
+.box2{
+    display: inline-block;
+    width: 22%;  
+    padding: 15px;  
+    background-color: rgb(112, 204, 194);
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.box3{
+    display: inline-block;
+    width: 37%;
+    background-color: rgb(98, 179, 170);
+    line-height: 3px;
+}
+
+.mail{
+    width: 200px;
+}
+
+.footer{
+    text-align: center
+    
+}
